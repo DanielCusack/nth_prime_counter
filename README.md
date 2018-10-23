@@ -6,7 +6,7 @@ numpy can usually be installed using pip using `pip install numpy`. Problems can
 
 To use the program, run `python pcounter.py`. You will be prompted to give a number between 1 and 10,000,000.
 
-test_pcounter.py is a test script to test the functionality of the pcounter.py python.
+test_pcounter.py is a test script to test the functionality of the pcounter.py program.
 
 
 For  the 10000000th prime number, the program took just under 1.5GB of memory and a few minutes to run on my Ryzen 5 2600 Gen2 6 Core AM4 processor. The time efficiency and level of memory usage may not be suitable.
